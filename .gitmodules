@@ -1,3 +1,6 @@
 [submodule "Desktop/round1/Desktop/round1/30DaysOfCSS"]
 	path = Desktop/round1/Desktop/round1/30DaysOfCSS
 	url = https://github.com/Karntsk/30DaysOfCSS.git
+[submodule "Desktop/round2/Desktop/round2/30DaysOfCSS"]
+	path = Desktop/round2/Desktop/round2/30DaysOfCSS
+	url = https://github.com/Karntsk/30DaysOfCSS.git
